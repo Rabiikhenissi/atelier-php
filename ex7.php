@@ -1,7 +1,7 @@
 <?php
 
-$a=rand(1,10);
-$b=rand(1,10);
+$a=rand();
+$b=rand();
 switch($a<=>$b){
     case -1:
         echo $a."<".$b;
