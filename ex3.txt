@@ -1,0 +1,4 @@
+Expression 1:Faux
+Expression 2:0/1
+Expression 3:Inconnu/Monsieur
+Expression 4:Cherif/Bonjour Inconnu/Bonjour Cherif
