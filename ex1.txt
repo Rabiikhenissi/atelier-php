@@ -1,0 +1,10 @@
+Indiquer parmi les variables ci-dessous, celles qui ont des noms valides
+A=invalide
+$ABC=valide
+$A B= invalide,
+$1A=invalide
+$_VAR =valide, 
+$1_Var=invalide
+$_1VAR=valide
+$prénom=valide
+$nom*matriclue=invalide
